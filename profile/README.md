@@ -1,3 +1,3 @@
 # Welcome 👋 to TaskPages
 
-The open source framework for rapidly creating, running and monitoring tasks. Where configuration pages are used to define the tasks which can be updated at runtime with no associated downtime. 
+The open source framework for rapidly creating, running and monitoring tasks using configuration pages. It allows for tasks to be rapidly developed and updated at runtime, with a preference to use configuration over code. 
